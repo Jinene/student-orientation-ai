@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model files
+orientation_model.pkl
+
+# IDE files
+.vscode/
+.idea/
